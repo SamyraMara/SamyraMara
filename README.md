@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SamyraMara
+- 👀 I’m interested in learning about programming
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on open-source projects related to C and C++
+- 📫 How to reach me: samyrinhamara@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love reading and playing games in my free time!
